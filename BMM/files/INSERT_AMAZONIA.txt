@@ -1,0 +1,204 @@
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2000, "AC", 117, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2000, "AM", 125, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2000, "AP", 125, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2000, "MA", 363, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2000, "MT", 106, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2000, "PA", 245, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2000, "RO", 296, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2000, "RR", 197, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2000, "TO", 349, curdate(), "admin");
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2001, "AC", 137, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2001, "AM", 155, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2001, "AP", 185, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2001, "MA", 423, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2001, "MT", 136, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2001, "PA", 275, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2001, "RO", 346, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2001, "RR", 218, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2001, "TO", 378, curdate(), "admin");
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2002, "AC", 153, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2002, "AM", 175, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2002, "AP", 215, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2002, "MA", 450, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2002, "MT", 158, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2002, "PA", 325, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2002, "RO", 365, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2002, "RR", 235, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2002, "TO", 389, curdate(), "admin");
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2003, "AC", 175, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2003, "AM", 156, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2003, "AP", 258, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2003, "MA", 480, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2003, "MT", 176, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2003, "PA", 315, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2003, "RO", 250, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2003, "RR", 226, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2003, "TO", 369, curdate(), "admin");
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2004, "AC", 728, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2004, "AM", 1232, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2004, "AP", 46, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2004, "MA", 755, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2004, "MT", 11814, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2004, "PA", 8870, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2004, "RO", 3858, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2004, "RR", 311, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2004, "TO", 158, curdate(), "admin");
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2005, "AC", 592, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2005, "AM", 775, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2005, "AP", 33, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2005, "MA", 922, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2005, "MT", 7145, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2005, "PA", 5899, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2005, "RO", 3244, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2005, "RR", 133, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2005, "TO", 271, curdate(), "admin");
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2006, "AC", 398, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2006, "AM", 788, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2006, "AP", 30, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2006, "MA", 674, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2006, "MT", 4333, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2006, "PA", 5659, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2006, "RO", 2049, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2006, "RR", 231, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2006, "TO", 124, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2007, "AC", 184, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2007, "AM", 610, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2007, "AP", 39, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2007, "MA", 631, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2007, "MT", 2678, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2007, "PA", 5526, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2007, "RO", 1611, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2007, "RR", 309, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2007 "TO", 63, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2008, "AC", 254, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2008, "AM", 604, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2008, "AP", 100, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2008, "MA", 1271, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2008, "MT", 3258, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2008, "PA", 5607, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2008, "RO", 1136, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2008, "RR", 574, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2008, "TO", 107, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2009, "AC", 167, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2009, "AM", 405, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2009, "AP", 70, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2009, "MA", 828, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2009, "MT", 1049, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2009, "PA", 4281, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2009, "RO", 482, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2009, "RR", 121, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2009, "TO", 61, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2010, "AC", 259, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2010, "AM", 595, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2010, "AP", 53, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2010, "MA", 712, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2010, "MT", 871, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2010, "PA", 3770, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2010, "RO", 435, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2010, "RR", 256, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2010, "TO", 49, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2011, "AC", 280, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2011, "AM", 502, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2011, "AP", 66, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2011, "MA", 396, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2011, "MT", 1120, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2011, "PA", 3008, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2011, "RO", 865, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2011, "RR", 141, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2011, "TO", 40, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2012, "AC", 305, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2012, "AM", 523, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2012, "AP", 27, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2012, "MA", 269, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2012, "MT", 757, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2012, "PA", 1741, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2012, "RO", 773, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2012, "RR", 124, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2012, "TO", 52, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2013, "AC", 221, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2013, "AM", 583, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2013, "AP", 23, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2013, "MA", 403, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2013, "MT", 1139, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2013, "PA", 2346, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2013, "RO", 932, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2013, "RR", 170, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2013, "TO", 74, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "AC", 309, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "AM", 500, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "AP", 31, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "MA", 257, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "MT", 1075, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "PA", 1887, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "RO", 684, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "RR", 219, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2014, "TO", 50, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2015, "AC", 264, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2015, "AM", 712, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2015, "AP", 25 curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2015, "MA", 209, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2015, "MT", 1601, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2015, "PA", 2153, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2015, "RO", 1030, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2015, "RR", 156, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2015, "TO", 57, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2016, "AC", 372, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2016, "AM", 1129, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2016, "AP", 17, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2016, "MA", 258, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2016, "MT", 1489, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2016, "PA", 2992, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2016, "RO", 1376, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2016, "RR", 202, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2016, "TO", 58, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2017, "AC", 257, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2017, "AM", 1001, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2017, "AP", 24, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2017, "MA", 265, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2017, "MT", 1561, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2017, "PA", 2433, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2017, "RO", 1243, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2017, "RR", 132, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2017, "TO", 31, curdate(), "admin");
+
+
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2018, "AC", 444, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2018, "AM", 1045, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2018, "AP", 24, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2018, "MA", 253, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2018, "MT", 1490, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2018, "PA", 2744, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2018, "RO", 1316, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Amazonia", 2018, "RR", 195, curdate(), "admin");
+INSERT INTO desmatamento (bioma_des, ano_des, sigla_estado, area_desmatada, ultima_modificacao, user_des) VALUES("Cerrado", 2018, "TO", 25, curdate(), "admin");
+
+
+
