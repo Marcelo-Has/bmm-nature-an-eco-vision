@@ -2712,7 +2712,7 @@ public class TelaConsulta extends javax.swing.JInternalFrame {
                 PdfWriter.getInstance(documento, new FileOutputStream("relatorios//" + nomeArquivo + ".pdf"));
                 documento.open();
                 Paragraph titulo = new Paragraph();
-                titulo.add(new Chunk("Relatório de Desamatamento", new Font(FontFamily.UNDEFINED, 24, Font.BOLD)));
+                titulo.add(new Chunk("Relatório de Desmatamento", new Font(FontFamily.UNDEFINED, 24, Font.BOLD)));
                 titulo.setAlignment(Element.ALIGN_CENTER);
                 documento.add(titulo);
                 documento.add(new Paragraph("\n\n       Os gráficos apresentados abaixo visa a facilidade e rapidez "
